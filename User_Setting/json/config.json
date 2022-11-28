@@ -1,0 +1,15 @@
+{
+    "licKey": "O23313E201IM24M30E423B2B224E251B14202M41B22E52MO24230OO101143ZZB",
+    "oscChannel": "/genlock",
+    "deviceAddress": "10.134.1.233",
+    "devicePort": "38000",
+    "targetAddress01": "10.134.1.204",
+    "targetPort01": "38100",
+    "inUse01": "True",
+    "targetAddress02": "10.134.1.158",
+    "targetPort02": "38200",
+    "inUse02": "False",
+    "targetAddress03": "10.134.1.93",
+    "targetPort03": "38300",
+    "inUse03": "False"
+}
